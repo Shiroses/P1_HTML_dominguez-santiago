@@ -18,7 +18,7 @@
     grid-template-rows: 1fr 1fr auto;
     grid-gap: 18px;
     background-color: black;
-    width: 1000px;
+    width: 60vmax;
     padding: 18px;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -61,7 +61,7 @@ img{
     grid-template-rows: 1fr 1fr;
     grid-gap: 18px;
     background-color: black;
-    width: 1000px;
+    width: 60vmax;
     padding: 36px;
     margin-bottom: 30px;
 }
