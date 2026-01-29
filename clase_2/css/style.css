@@ -1,0 +1,16 @@
+@keyframes walk {
+    from {
+        background-position: 0 0;
+    }
+    to {
+        background-position: -600px 0;
+    }
+}
+.walker {
+    width: 100px;
+    height: 145px;
+    background:  url('../img/attachment-1.png') no-repeat;
+    background-size: cover;
+    animation: walk 1.4s steps(6) infinite;
+
+}
